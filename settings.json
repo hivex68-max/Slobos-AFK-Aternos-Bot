@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "i",
-    "port": ,
+    "ip": "MINEBLASTER.aternos.me",
+    "port":28893 ,
     "version": "",
     "try-creative": false
   },
